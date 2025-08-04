@@ -119,7 +119,8 @@ def get_course_info(html):
    1. от источника данных;
    2. от формата вывода в файл.
 
-![alt text](https://devman.org/assets/images/7_40__data_flow.png)
+<img width="1081" height="585" alt="image" src="https://github.com/user-attachments/assets/d952509d-0c7c-4e13-9748-aba2a856e003" />
+
 
 Кроме того, часть кода удалось превратить в [чистые функции](https://devman.org/encyclopedia/decomposition/decomposition_pure_functions/), что облегчит 
 тестирование и повторное использование.
