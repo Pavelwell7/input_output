@@ -118,7 +118,7 @@ def get_course_info(html):
 
    1. от источника данных;
    2. от формата вывода в файл.
-   3. 
+
 
 <img width="1081" height="585" alt="image" src="https://github.com/user-attachments/assets/d952509d-0c7c-4e13-9748-aba2a856e003" />
 
